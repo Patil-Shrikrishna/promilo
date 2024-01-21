@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+}
+.App{
+  /* background-color: gray; */
+  display: flex;
+  flex-direction: column;
+  gap: 34px;
+  
+}
+/* .main-container{
+  
+} */
